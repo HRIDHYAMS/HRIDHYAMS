@@ -70,9 +70,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hridhyams&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
-
- <p align="center">
-  <img src="https://github.com/hridhyams/hridhyams/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-
+ 
