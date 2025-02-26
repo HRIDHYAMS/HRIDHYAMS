@@ -41,16 +41,30 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hridhyams&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hridhyams" /></p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hridhyams&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-contributor-stats.vercel.app/api?username=hridhyams&theme=tokyonight" alt="Top Contributed Repositories" />
+    </td>
+  </tr>
+</table>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hridhyams&show_icons=true&locale=en&theme=tokyonight" alt="hridhyams" /></p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=hridhyams&show_icons=true&locale=en&theme=tokyonight" alt="hridhyams" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hridhyams&theme=tokyonight" alt="hridhyams" />
+    </td>
+  </tr>
+</table>
 
- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hridhyams&theme=tokyonight" alt="hridhyams" /></p>
 
-<p align="center">&nbsp;
-  <img src="https://github-contributor-stats.vercel.app/api?username=hridhyams&theme=tokyonight" alt="Top Contributed Repositories" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hridhyams&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" />
