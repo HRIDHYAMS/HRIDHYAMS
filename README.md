@@ -71,4 +71,7 @@
 </p>
 
 
+<p align="center">
+  <img src="https://github.com/hridhyams/hridhyams/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
