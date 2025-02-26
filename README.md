@@ -48,7 +48,7 @@
 
  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hridhyams&theme=tokyonight" alt="hridhyams" /></p>
 
-<p align="right">&nbsp;
+<p align="center">&nbsp;
   <img src="https://github-contributor-stats.vercel.app/api?username=hridhyams&theme=tokyonight" alt="Top Contributed Repositories" />
 </p>
 
